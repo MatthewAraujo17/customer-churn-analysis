@@ -34,6 +34,10 @@ This project analyzes customer churn behavior and identifies key drivers of cust
 ## 📁 Files
 - `Churn_Dashboard.xlsx` → Interactive dashboard
 
+## 📸 Dashboard Preview
+![Dashboard]<img width="856" height="453" alt="dashboard" src="https://github.com/user-attachments/assets/1b7e4c07-31cf-4fa7-97e4-29c036f44f2e" />
+
+
 ## 🚀 Future Improvements
 - Add machine learning model (logistic regression)
 - Integrate SQL pipeline
